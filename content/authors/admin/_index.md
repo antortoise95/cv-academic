@@ -23,4 +23,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV/resumé{{< /staticref >}}.
