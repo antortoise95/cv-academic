@@ -25,7 +25,7 @@ feature:
   icon_pack: fab
   name: Python
 - description: 100%
-  icon: steam
+  icon: playstation
   icon_pack: fas
   name: Gaming
 
