@@ -13,13 +13,12 @@ organizations:
   - name: University of California, Riverside
 education:
   courses:
-    - course: PhD in Economics, In Progress
+    - course: Ph.D in Economics, In Progress
       institution: University of California, Riverside
-      year: 2023
     - course: M.A & B.A in Economics
       institution: University of Southern California
       year: 2017
-email: ""
+email: ayan013@ucr.edu
 superuser: true
 highlight_name: false
 ---
