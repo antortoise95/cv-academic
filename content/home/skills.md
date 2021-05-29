@@ -26,7 +26,7 @@ feature:
   name: Python
 - description: 100%
   icon: playstation
-  icon_pack: fas
+  icon_pack: fab
   name: Gaming
 
 # Uncomment to use emoji icons.
