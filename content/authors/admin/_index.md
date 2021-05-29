@@ -1,7 +1,7 @@
 ---
 title: Andong Yan
 role: PhD Candidate in Economics
-avatar_filename: photo.jpg
+avatar_filename: ""
 bio: ""
 interests:
   - Political Economics
