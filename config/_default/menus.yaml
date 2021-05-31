@@ -7,12 +7,21 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+<<<<<<< Updated upstream
   - name: Teaching
     url: '#projects'
     weight: 20
   - name: Research
     url: '#featured'
     weight: 30
+=======
+   - name: Teaching
+    url: '#teaching'
+    weight: 10
+   - name: Research
+    url: '#research'
+    weight: 10
+>>>>>>> Stashed changes
 #  - name: Posts
 #    url: '#posts'
 #    weight: 20
