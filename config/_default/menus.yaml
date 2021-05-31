@@ -7,6 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Teaching
+    url: '#projects'
+    weight: 20
+  - name: Research
+    url: '#featured'
+    weight: 30
 #  - name: Posts
 #    url: '#posts'
 #    weight: 20
@@ -27,4 +33,4 @@ main:
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/resume.pdf
-    weight: 70
+    weight: 40
