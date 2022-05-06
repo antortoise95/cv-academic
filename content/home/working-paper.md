@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: blank
 widget_id: Working Paper
 headless: true
 weight: 30
