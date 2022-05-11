@@ -7,7 +7,7 @@ title: Works in Progress
 subtitle: ""
 active: true
 content:
-  page_type: works
+  page_type: publication/#4
   count: 5
   offset: 0
   order: desc

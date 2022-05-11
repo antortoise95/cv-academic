@@ -75,8 +75,8 @@ related:
     - name: categories
       weight: 70
 
-###########Remove Social Media##############
-cascade:
-  - _target:
-      path: /publication/**
-    share: false
+# ###########Remove Social Media##############
+# cascade:
+#   - _target:
+#       path: /publication/**
+#     share: false

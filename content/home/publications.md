@@ -7,7 +7,7 @@ title: Working Paper
 subtitle: ""
 active: true
 content:
-  page_type: publication
+  page_type: publication/#3
   count: 5
   offset: 0
   order: desc
