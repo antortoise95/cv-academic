@@ -5,10 +5,6 @@ summary: ''
 date: ''
 type: ''
 ---
-
-
-{{< toc hide_on="xl" >}}
-
 ## Course Slides
 - {{% staticref "teaching/Dis 1.pdf" "newtab" %}}Discussion 1{{% /staticref %}}
 - {{% staticref "teaching/Dis 2.pdf" "newtab" %}}Discussion 2{{% /staticref %}}
@@ -24,6 +20,8 @@ type: ''
 - {{% staticref "teaching/HW 4.pdf" "newtab" %}}HW 4{{% /staticref %}}
 - {{% staticref "teaching/HW 5.pdf" "newtab" %}}HW 5{{% /staticref %}}
 
+
+<!-- {{< toc hide_on="xl" >}} -->
 
 <!-- ## What you will learn
 
