@@ -1,6 +1,5 @@
 ---
-title: "Cost of Zero-Covid: Effects of Anti-contagious Policy on
-Labor Market Outcomes in China"
+title: "Cost of Zero-Covid: Effects of Anti-contagious Policy on Labor Market Outcomes in China"
 authors:
 - Da Gong
 - admin
