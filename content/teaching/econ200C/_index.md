@@ -1,7 +1,7 @@
 ---
-title: ECON 200C - Microeconomic Theory (PhD first year course)
-linkTitle: Econ 200C
-summary: 'TA for Prof. Urmee Khan'
+title: Microeconomic Theory - PhD first year course
+linkTitle: ECON 200C
+summary: 'TA for Prof. Urmee Khan, Spring 2019 - Spring 2022'
 date: ''
 type: 'book'
 ---
