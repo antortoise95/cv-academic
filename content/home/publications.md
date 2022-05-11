@@ -5,6 +5,7 @@ headless: true
 weight: 20
 title: Working Paper
 subtitle: ""
+active: true
 content:
   page_type: publication
   count: 5
