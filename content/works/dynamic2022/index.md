@@ -1,5 +1,5 @@
 ---
-title: "Why do Autocrats Grant Privilege? A Principal-Agent Problem with Limited Commitment"
+title: "A Dynamic Moral Hazard Problem with Limited Commitment"
 authors:
 - admin
 date: ""
@@ -18,13 +18,13 @@ publication_types: ["3"]
 # publication: ""
 # publication_short: ""
 
-abstract: An autocrat equipped with the absolute power dominates over the subordinates, meanwhile a class of aristocrats usually existed in any autocratic regime. This paper considers a principal-agent model with no third-party enforcement. An innovative setting that allows the principal to design the agents’ expected vacancy value explains how granting privilege to the agents could optimize the principal’s expected profit.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 # summary: 
 
 tags:
-- Comparative Economics
+- Dynamic Contracting
 - Limited Commitement
 - Contract Theory
 - Principal-agent problem
@@ -39,7 +39,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: uploads/autocratic2022.pdf
+url_slides: uploads/dynamic2022.pdf
 url_source: ''
 url_video: ''
 

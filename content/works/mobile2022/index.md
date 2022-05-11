@@ -1,5 +1,5 @@
 ---
-title: "Why do Autocrats Grant Privilege? A Principal-Agent Problem with Limited Commitment"
+title: "How Does Lower Transaction Cost Impact Risk-sharing Activities? Evidence from the Mobile Transaction in China during the Pandemic"
 authors:
 - admin
 date: ""
@@ -18,16 +18,15 @@ publication_types: ["3"]
 # publication: ""
 # publication_short: ""
 
-abstract: An autocrat equipped with the absolute power dominates over the subordinates, meanwhile a class of aristocrats usually existed in any autocratic regime. This paper considers a principal-agent model with no third-party enforcement. An innovative setting that allows the principal to design the agents’ expected vacancy value explains how granting privilege to the agents could optimize the principal’s expected profit.
+abstract: Evidences have been found in literature that the use of new technology could help people in developing countries form and enhance their risk-sharing networks and become more resilient to shocks. Despite the quick adaption of mobile payment in China during recent years and the existence of a large group of migrant workers, a systematical analysis on whether the mobile payment innovation in China imposes an impact on the risk-sharing within the informal network among rural households is currently absent. This research aims to utilize the Covid-19 pandemic as an exogenous shock to investigate the rural household risk-sharing behaviors and the impact of the transaction cost reduction due to mobile payment in rural China. Our work could provide further insights into how mobile payment helps households and develop the economy in a more confounding way.
 
 # Summary. An optional shortened abstract.
 # summary: 
 
 tags:
-- Comparative Economics
-- Limited Commitement
-- Contract Theory
-- Principal-agent problem
+- Mobile Payment
+- Rish Sharing
+- Covid-19
 
 featured: false
 
@@ -39,7 +38,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: uploads/autocratic2022.pdf
+url_slides: ''
 url_source: ''
 url_video: ''
 
