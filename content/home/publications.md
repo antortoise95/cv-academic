@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: Works in Progress
+widget_id: Working Paper
 headless: true
-weight: 30
-title: Works in Progress
+weight: 20
+title: Working Paper
 subtitle: ""
 content:
   page_type: publication

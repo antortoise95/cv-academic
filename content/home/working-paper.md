@@ -1,9 +1,9 @@
 ---
 widget: blank
-widget_id: Working Paper
+widget_id: Works in Progress
 headless: true
 weight: 30
-title: Working Paper
+title: Works in Progress
 subtitle: ""
 active: true
 content:
