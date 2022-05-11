@@ -34,9 +34,9 @@ tags:
 
 featured: true
 
- links:
- - name: "SSRN"
-   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4037688"
+# links:
+# - name: "SSRN"
+#   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4037688"
 url_pdf: uploads/resume.pdf
 url_code: ''
 url_dataset: ''
