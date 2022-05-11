@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: pages
 widget_id: Works in Progress
 headless: true
 weight: 30
