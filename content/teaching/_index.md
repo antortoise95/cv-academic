@@ -11,6 +11,7 @@ I taught/TA the following courses in UC Riverside:
 
 <span style="font-size:1.5em;">_Undergraduate Courses_:</span>
 
+<br />
 Associate-in Instructor for _**Introduction to Microeconomic**_, Summer 2021
 <br />
 Associate-in Instructor for _**Intermediate Microeconomic Theory**_, Summer 2021
