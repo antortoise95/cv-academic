@@ -29,7 +29,7 @@ tags:
 - Contract Theory
 - Principal-agent problem
 
-featured: true
+featured: false
 
 # links:
 #  - name: SSRN
