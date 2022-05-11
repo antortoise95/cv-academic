@@ -2,7 +2,7 @@
 title: "How Does Lower Transaction Cost Impact Risk-sharing Activities? Evidence from the Mobile Transaction in China during the Pandemic"
 authors:
 - admin
-date: ""
+date: "2022-05-11"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -7,4 +7,4 @@ header:
   image: ""
 ---
 
-I teach the following courses:
+I taught/TA the following courses in UC Riverside:

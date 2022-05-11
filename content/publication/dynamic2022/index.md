@@ -2,7 +2,7 @@
 title: "A Dynamic Moral Hazard Problem with Limited Commitment"
 authors:
 - admin
-date: ""
+date: "2022-05-11"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
