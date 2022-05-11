@@ -32,12 +32,12 @@ tags:
 - unemployment
 - labor market
 
-featured: true
+featured: false
 
 # links:
 # - name: "SSRN"
 #   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4037688"
-url_pdf: uploads/resume.pdf
+url_pdf: uploads/covid2022.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
