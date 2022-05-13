@@ -32,12 +32,12 @@ featured: false
 links:
  - name: interactive html
    url: site/insurance_map.html
-url_pdf: ''
+url_pdf: uploads/insurance2020.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: uploads/insurance2020.pdf
+url_slides: ''
 url_source: ''
 url_video: ''
 

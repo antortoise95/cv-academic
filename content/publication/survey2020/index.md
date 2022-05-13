@@ -42,12 +42,12 @@ links:
    url: uploads/grf empirical.R
  - name: R-code-6
    url: uploads/grf example.R
-url_pdf: ''
+url_pdf: 'uploads/survey2020.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: uploads/survey2020.pdf
+url_slides: ''
 url_source: ''
 url_video: ''
 
