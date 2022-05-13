@@ -34,12 +34,12 @@ q.star.3 <- model.q0.90$quantile
 #combine all predictions and plot graph
 df <- data.frame(
   x = X.test[,1],
-  y.1 = q.hat.1[,1],
-  y.2 = q.hat.1[,2],
-  y.3 = q.hat.1[,3],
-  y.4 = q.tau.1[,1],
-  y.5 = q.tau.1[,2],
-  y.6 = q.tau.1[,3],
+  y.1 = q.hat.1$prediction[,1],
+  y.2 = q.hat.1$prediction[,2],
+  y.3 = q.hat.1$prediction[,3],
+  y.4 = q.tau.1$prediction[,1],
+  y.5 = q.tau.1$prediction[,2],
+  y.6 = q.tau.1$prediction[,3],
   y.7 = q.star.1,
   y.8 = q.star.2,
   y.9 = q.star.3
