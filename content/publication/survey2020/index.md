@@ -29,20 +29,19 @@ tags:
 - Tree-based Method
 
 featured: false
-
- links:
-  - name: R-code-1
-    url: uploads/grf 1.R
-  - name: R-code-2
-    url: uploads/grf 2.R
-  - name: R-code-3
-    url: uploads/grf 3.R
-  - name: R-code-4
-    url: uploads/grf 4.R
-  - name: R-code-5
-    url: uploads/grf empirical.R
-  - name: R-code-6
-    url: uploads/grf example.R
+links:
+ - name: R-code-1
+   url: uploads/grf 1.R
+ - name: R-code-2
+   url: uploads/grf 2.R
+ - name: R-code-3
+   url: uploads/grf 3.R
+ - name: R-code-4
+   url: uploads/grf 4.R
+ - name: R-code-5
+   url: uploads/grf empirical.R
+ - name: R-code-6
+   url: uploads/grf example.R
 url_pdf: ''
 url_code: ''
 url_dataset: ''

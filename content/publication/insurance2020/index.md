@@ -29,9 +29,9 @@ tags:
 
 featured: false
 
- links:
-  - name: interactive html
-    url: site/insurance_map.html
+links:
+ - name: interactive html
+   url: site/insurance_map.html
 url_pdf: ''
 url_code: ''
 url_dataset: ''
