@@ -1,5 +1,6 @@
 ---
-title: "Why do Autocrats Grant Privilege? A Principal-Agent Problem with Limited Commitment"
+title: "Do Autocrats Break Their Promises? A Principal-Agent Problem with Limited Commitment"
+# title: "Why do Autocrats Grant Privilege? A Principal-Agent Problem with Limited Commitment"
 authors:
 - admin
 date: "2022-05-11"
