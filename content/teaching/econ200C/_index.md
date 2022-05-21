@@ -14,6 +14,7 @@ type: 'book'
 - {{% staticref "teaching/Dis 6.pdf" "newtab" %}}Discussion 6{{% /staticref %}}
 
 ## Course Assignments
+*Typed solution available upon request*
 - {{% staticref "teaching/HW 1.pdf" "newtab" %}}HW 1{{% /staticref %}}
 - {{% staticref "teaching/HW 2.pdf" "newtab" %}}HW 2{{% /staticref %}}
 - {{% staticref "teaching/HW 3.pdf" "newtab" %}}HW 3{{% /staticref %}}
